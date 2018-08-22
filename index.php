@@ -5,5 +5,6 @@
 </head>
 <body>
 	<p>Página inicial de Adriano. Marco 0 do projeto.</p>
+	<p>Parágrafo adicionado.</p>
 </body>
 </html>
